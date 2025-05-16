@@ -1,3 +1,4 @@
+[LICENSE.txt](https://github.com/user-attachments/files/20244564/LICENSE.txt)
 # GitHub Action - Get Next Semantic Release Info
 This GitHub Action summarizes information about the next semantic release. It does not publish the release. The information is exported as output variables of the GitHub action.
 
